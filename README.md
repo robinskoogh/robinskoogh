@@ -1,4 +1,5 @@
-- 👋 Hi, I’m robin
+<h1 align="center">👋 Hey, I’m robin!</h1>
+
 - 👀 I’m interested in Github
 - 🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on Github
