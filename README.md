@@ -35,6 +35,9 @@
 <div>
     <img alt="Visual Studio" title="Visual Studio" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/visual-studio.svg">&nbsp;
     <img alt="Visual Studio Code" title="Visual Studio Code" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/vscode-original.svg">&nbsp;
+    <img alt="Premiere Pro" title="Premiere Pro" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/Premiere_Pro.svg">&nbsp;
+    <img alt="Photoshop" title="Photoshop" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/photoshop.png">&nbsp;
+    <img alt="After Effects" title="After Effects" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/after-effects.png">&nbsp;
 </div>
 
 
