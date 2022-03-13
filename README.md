@@ -22,7 +22,7 @@
 <div>
     <img alt="MongoDb" title="MongoDb" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/mongodb-original.svg">&nbsp;
     <img alt="MSSQL" title="MSSQL" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/mssql.png">&nbsp;
-    <img alt="Docker" title="Docker" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/docker-original.svg">&nbsp;
+    <img alt="Docker" title="Docker" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/docker-plain.svg">&nbsp;
     <img alt="Azure" title="Azure" height="30" src=https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png>&nbsp;
     <img alt="Git" title="Git" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/git-original.svg">&nbsp;
     <img alt="GitHub" title="GitHub" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/github.svg">&nbsp;
