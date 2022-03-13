@@ -22,10 +22,10 @@
 
 **Technologies**
 <div>
+    <img alt="Azure" title="Azure" height="30" src=https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/Microsoft_Azure.png>&nbsp;
     <img alt="MongoDb" title="MongoDb" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/mongodb-original.svg">&nbsp;
     <img alt="MSSQL" title="MSSQL" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/mssql.png">&nbsp;
     <img alt="Docker" title="Docker" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/docker-plain.svg">&nbsp;
-    <img alt="Azure" title="Azure" height="30" src=https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png>&nbsp;
     <img alt="Git" title="Git" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/git-original.svg">&nbsp;
     <img alt="GitHub" title="GitHub" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/github.svg">&nbsp;
 </div>
@@ -36,8 +36,8 @@
     <img alt="Visual Studio" title="Visual Studio" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/visual-studio.svg">&nbsp;
     <img alt="Visual Studio Code" title="Visual Studio Code" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/vscode-original.svg">&nbsp;
     <img alt="Premiere Pro" title="Premiere Pro" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/Premiere_Pro.svg">&nbsp;
-    <img alt="Photoshop" title="Photoshop" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/photoshop.png">&nbsp;
-    <img alt="After Effects" title="After Effects" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/after-effects.png">&nbsp;
+    <img alt="Photoshop" title="Photoshop" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/Photoshop.svg">&nbsp;
+    <img alt="After Effects" title="After Effects" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/After_Effects.svg">&nbsp;
 </div>
 
 
