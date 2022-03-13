@@ -12,6 +12,8 @@
     <img alt="C#" title="C#" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/csharp-original.svg">&nbsp;
     <img alt="HTML" title="HTML" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/html5-original.svg">&nbsp;
     <img alt="CSS" title="CSS" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/css3-original.svg">&nbsp;
+    <img alt="Python" title="Python" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/python-original.svg">&nbsp;
+    <img alt="JavaScript" title="JavaScript" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/javascript-original.svg">&nbsp;
 </div>
 <div>
     <img alt=".NET Core" title=".NET Core" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/dotnetcore-original.svg">&nbsp;
