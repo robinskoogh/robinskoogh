@@ -22,7 +22,7 @@
 
 **Technologies**
 <div>
-    <img alt="Azure" title="Azure" height="30" src=https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/Microsoft_Azure.png>&nbsp;
+    <img alt="Azure" title="Azure" height="30" src=https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/Microsoft_Azure.svg>&nbsp;
     <img alt="MongoDb" title="MongoDb" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/mongodb-original.svg">&nbsp;
     <img alt="MSSQL" title="MSSQL" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/mssql.png">&nbsp;
     <img alt="Docker" title="Docker" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/docker-plain.svg">&nbsp;
