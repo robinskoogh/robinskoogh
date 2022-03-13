@@ -5,20 +5,20 @@
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me?
 
-<code><img height="30" src="https://raw.githubusercontent.com/robinskoogh/devicon/master/icons/csharp/csharp-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/robinskoogh/devicon/master/icons/css3/css3-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/robinskoogh/devicon/master/icons/docker/docker-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/robinskoogh/devicon/master/icons/dotnetcore/dotnetcore-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/robinskoogh/devicon/master/icons/git/git-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/robinskoogh/devicon/master/icons/github/github-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/robinskoogh/devicon/master/icons/html5/html5-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/robinskoogh/devicon/master/icons/mongodb/mongodb-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/robinskoogh/devicon/master/icons/visualstudio/visualstudio-plain.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/robinskoogh/devicon/master/icons/vscode/vscode-original.svg"></code>
-<code><img height="30" src=""></code>
+<img align="left" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/csharp-original.svg">
+<img align="left" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/css3-original.svg">
+<img align="left" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/docker-original.svg">
+<img align="left" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/dotnetcore-original.svg">
+<img align="left" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/git-original.svg">
+<img align="left" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/github.svg">
+<img align="left" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/html5-original.svg">
+<img align="left" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/mongodb-original.svg">
+<img align="left" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/visual-studio.svg">
+<img align="left" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/vscode-original.svg">
+<img align="left" height="30" src="">
 
 
-<code><img height="40" src="https://raw.githubusercontent.com/robinskoogh/devicon/master/icons/linkedin/linkedin-original.svg"></code>
+<img height="30" src="https://raw.githubusercontent.com/robinskoogh/devicon/master/icons/linkedin/linkedin-original.svg">
 
 <!---
 robinskoogh/robinskoogh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
