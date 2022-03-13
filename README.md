@@ -7,17 +7,30 @@
     <img alt="LinkedIn" title="LinkedIn" height="30" src="https://raw.githubusercontent.com/robinskoogh/devicon/master/icons/linkedin/linkedin-original.svg">&nbsp;&nbsp;
     <img alt="GitHub" title="GitHub" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/github.svg">
 
-<img align="left" alt="C#" title="C#" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/csharp-original.svg">
-<img align="left" alt=".NET Core" title=".NET Core" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/dotnetcore-original.svg">
-<img align="left" alt="HTML" title="HTML" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/html5-original.svg">
-<img align="left" alt="CSS" title="CSS" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/css3-original.svg">
-<img align="left" alt="MongoDb" title="MongoDb" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/mongodb-original.svg">
-<img align="left" alt="MSSQL" title="MSSQL" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/MS_SQL.svg">
-<img align="left" alt="Docker" title="Docker" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/docker-original.svg">
-<img align="left" alt="GitHub" title="GitHub" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/github.svg">
-<img align="left" alt="Git" title="Git" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/git-original.svg">
-<img align="left" alt="Visual Studio" title="Visual Studio" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/visual-studio.svg">
-<img align="left" alt="Visual Studio Code" title="Visual Studio Code" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/vscode-original.svg">
+**Languages & frameworks**
+<div>
+<img alt="C#" title="C#" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/csharp-original.svg">&nbsp;
+<img alt=".NET Core" title=".NET Core" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/dotnetcore-original.svg">&nbsp;
+<img alt="HTML" title="HTML" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/html5-original.svg">&nbsp;
+<img alt="CSS" title="CSS" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/css3-original.svg">&nbsp;
+</div>
+<br>
+
+**Technologies**
+<div>
+<img alt="MongoDb" title="MongoDb" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/mongodb-original.svg">&nbsp;
+<img alt="MSSQL" title="MSSQL" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/MS_SQL.svg">&nbsp;
+<img alt="Docker" title="Docker" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/docker-original.svg">&nbsp;
+<img alt="GitHub" title="GitHub" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/github.svg">&nbsp;
+<img alt="Git" title="Git" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/git-original.svg">&nbsp;
+</div>
+<br>
+
+**Software**
+<div>
+<img alt="Visual Studio" title="Visual Studio" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/visual-studio.svg">&nbsp;
+<img alt="Visual Studio Code" title="Visual Studio Code" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/vscode-original.svg">&nbsp;
+</div>
 
 
 
