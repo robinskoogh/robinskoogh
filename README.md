@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me?<br>
-    <a href="https://www.linkedin.com/robinskoogh" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" title="LinkedIn" height="30" src="https://raw.githubusercontent.com/robinskoogh/devicon/master/icons/linkedin/linkedin-original.svg"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/robinskoogh" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" title="LinkedIn" height="30" src="https://raw.githubusercontent.com/robinskoogh/devicon/master/icons/linkedin/linkedin-original.svg"></a>&nbsp;&nbsp;
     <img alt="GitHub" title="GitHub" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/github.svg">
 
 <img align="left" alt="C#" title="C#" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/csharp-original.svg">
