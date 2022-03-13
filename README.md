@@ -3,7 +3,9 @@
 - 👀 I’m interested in Github
 - 🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me?
+- 📫 How to reach me?<br>
+    <a href="https://www.linkedin.com/robinskoogh" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" title="LinkedIn" height="30" src="https://raw.githubusercontent.com/robinskoogh/devicon/master/icons/linkedin/linkedin-original.svg"></a>&nbsp;&nbsp;
+    <img alt="GitHub" title="GitHub" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/github.svg">
 
 <img align="left" alt="C#" title="C#" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/csharp-original.svg">
 <img align="left" alt=".NET Core" title=".NET Core" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/dotnetcore-original.svg">
@@ -18,7 +20,6 @@
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/vscode-original.svg">
 
 
-<img height="30" src="https://raw.githubusercontent.com/robinskoogh/devicon/master/icons/linkedin/linkedin-original.svg">
 
 <!---
 robinskoogh/robinskoogh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
