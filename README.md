@@ -40,8 +40,18 @@
     <img alt="After Effects" title="After Effects" height="30" src="https://raw.githubusercontent.com/robinskoogh/robinskoogh/main/icons/After_Effects.svg">&nbsp;
 </div>
 
-
-
+<!---
+<br>
+<div>
+<a href="#" alt="Some stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=robinskoogh&theme=onedark&show_icons=true" />
+</a>
+<br><br>
+<a href="#" alt="Some stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinskoogh&layout=compact" />
+</a>
+</div>
+--->
 <!---
 robinskoogh/robinskoogh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
